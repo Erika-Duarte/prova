@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="Kilometragem atual"
+        android:text="Kms atual"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -21,7 +21,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="quantidade abastecida"
+        android:text="Qtd abastecida"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
@@ -33,7 +33,7 @@
         android:layout_marginStart="323dp"
         android:layout_marginTop="137dp"
         android:layout_marginEnd="42dp"
-        android:text="dia"
+        android:text="00/00/00"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -45,7 +45,7 @@
         android:layout_marginStart="42dp"
         android:layout_marginTop="200dp"
         android:layout_marginEnd="311dp"
-        android:text="valor"
+        android:text="Valor Final"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -54,9 +54,9 @@
         android:layout_width="376dp"
         android:layout_height="104dp"
         android:layout_marginStart="5dp"
-        android:layout_marginTop="108dp"
+        android:layout_marginTop="300dp"
         android:layout_marginEnd="3dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+        app:layout_constraintTop_toTopOf="parent" />
 </android.support.constraint.ConstraintLayout>
