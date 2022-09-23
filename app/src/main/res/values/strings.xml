@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">p1</string>
+    <string name="kms">Kms atual</string>
+    <string name="qtd_lt">Qtd abastecida</string>
+    <string name="data">00/00/00</string>
+    <string name="valor_final">Valor Final</string>
 </resources>
