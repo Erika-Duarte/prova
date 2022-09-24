@@ -4,4 +4,6 @@
     <string name="qtd_lt">Qtd abastecida</string>
     <string name="data">00/00/00</string>
     <string name="valor_final">Valor Final</string>
+    <string name="remover">Remover</string>
+    <string name="salvar">Salvar</string>
 </resources>
